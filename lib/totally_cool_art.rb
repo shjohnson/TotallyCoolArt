@@ -1,5 +1,7 @@
-require "totally_cool_art/version"
+# require "totally_cool_art/version"
+require "httparty"
+require "json"
 
 module TotallyCoolArt
-  # Your code goes here...
+
 end

@@ -6,10 +6,10 @@ require 'totally_cool_art/version'
 Gem::Specification.new do |spec|
   spec.name          = "totally_cool_art"
   spec.version       = TotallyCoolArt::VERSION
-  spec.authors       = ["Rosie Brigham & Sam Johnson"]
+  spec.authors       = ["Rob Kemp & Sam Johnson"]
   spec.email         = ["sam.johnson@fundingcircle.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Gem that allows you to book a ticket at Londons top galleries. Educational purpose only!!!}
+  spec.description   = %q{This is a demonstration API used to teach about services & building gems. Students should create a gem that can set up the API connection and control HTTP requests / JSON parsing etc, and then build a simple user-facing sinatra app with that gem.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
